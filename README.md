@@ -1,4 +1,4 @@
-# DEMO2024
+# MASTER 5000
 DEMO exam 2024 for dummies  
 <p align="center">
  <img src="https://github.com/NyashMan/DEMO2024/assets/1348639/f1c404ad-a564-4ea7-b407-34dc01c9c626" />
